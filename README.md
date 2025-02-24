@@ -1,4 +1,5 @@
 # Admin Dashboard Project
+- Intermediate HTML and CSS Course - The odin project
 
 ## Learnings
 
